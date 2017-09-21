@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.jerry.onelogin.Categories_accounts">
+    <item android:id="@+id/action_settings" android:title="Change Main Password"
+        android:orderInCategory="100"
+        />
+    <item android:id="@+id/alter_login" android:title="Change Alternate Password"
+        android:orderInCategory="100"
+        />
+    <item android:id="@+id/backup" android:title="Backup"
+        android:orderInCategory="100"
+        />
+    <item android:id="@+id/restore" android:title="Restore"
+        android:orderInCategory="100"
+        />
+    <item android:id="@+id/about_us" android:title="About Us"
+        android:orderInCategory="100"
+        />
+
+</menu>
